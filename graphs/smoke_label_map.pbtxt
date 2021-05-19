@@ -1,0 +1,6 @@
+item {
+  name: "smoke"
+  id: 1
+  display_name: "smoke"
+}
+
