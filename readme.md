@@ -13,5 +13,4 @@ You are tired to label your images by hand to work with object detection? So, th
 - Add your pre-treined model and label map into the 'graphs' folder.
 - Add the images you want to label into the images folder
 - Change the xml path in generate_xml.py to put your own local path.
-- Inside the auto_annotate folder run: **python3 scripts/detection_images.py**
 
